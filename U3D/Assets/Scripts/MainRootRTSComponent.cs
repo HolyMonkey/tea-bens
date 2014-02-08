@@ -2,8 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 
+[System.Serializable]
 public sealed class MainRootRTSComponent : MonoBehaviour {
-	
+
 	private List<string> Tags;
 
 	/*Unity Call*/
