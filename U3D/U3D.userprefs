@@ -1,10 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Editor\g_MRRTSC.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Unity3DProject\Lesson1\Assets\EndTrigger.cs">
     <Files>
-      <File FileName="Assets\Scripts\m_GameObject.cs" Line="13" Column="3" />
-      <File FileName="Assets\Scripts\MainRootRTSComponent.cs" Line="20" Column="2" />
-      <File FileName="Assets\Scripts\Editor\g_MRRTSC.cs" Line="21" Column="31" />
+      <File FileName="..\..\..\Unity3DProject\Lesson1\Assets\EndTrigger.cs" Line="9" Column="3" />
+      <File FileName="..\..\..\Unity3DProject\Lesson1\Assets\Storage.cs" Line="13" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

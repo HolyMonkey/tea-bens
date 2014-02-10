@@ -1,11 +1,20 @@
 ﻿using UnityEngine;
+using UnityEditor;
 using System.Collections;
 using System.Collections.Generic;
 
 [System.Serializable]
 public sealed class MainRootRTSComponent : MonoBehaviour {
 
-	private List<string> Tags;
+	[SerializeField]
+	private List<string> tags;
+	private List<string> Tags{
+		get{
+			if(tags == null)
+				tags = new List<string>();
+			return tags;
+		}
+	}
 
 	/*Unity Call*/
 	void Start()
